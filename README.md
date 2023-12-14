@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zzaakiirr
 - 👀 I’m interested in Programming, Web development in particular
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: the best way would be messaging me in Telegram, my username: @zzaakiirr. Or send me an email: zakir.dzhamaliddinov@gmail.com
